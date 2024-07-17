@@ -1,4 +1,3 @@
-Here's a Markdown file for Assignment 3:
 
 # Assignment 3: Version Control with Git
 
