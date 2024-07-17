@@ -1,5 +1,3 @@
-Here's a Markdown file for Assignment 4:
-
 
 # Assignment 4: Introduction to Parallel Computing
 
@@ -30,5 +28,3 @@ Parallel computing is significant in modern computing for several reasons:
 - **Parallel Algorithms**: Algorithms specifically designed to exploit parallelism, such as parallel sorting algorithms and matrix multiplication, can efficiently solve complex problems.
 
 Parallel computing plays a crucial role in advancing technology and solving problems that require significant computational resources. Its applications span various fields, from scientific research to real-time data processing, making it a cornerstone of modern computing.
-
-This Markdown file provides an overview of parallel computing, its significance, and examples to illustrate its importance in contemporary computing.
