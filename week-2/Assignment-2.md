@@ -1,6 +1,5 @@
 Here's a Markdown file for Assignment 2:
 
-```markdown
 # Assignment 2: GitHub Usage
 
 ## Setting Up GitHub
